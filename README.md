@@ -3,24 +3,23 @@ Only for single users [u can modify it for many users but queue wont work ]
 
 ## ffmpeg compiled with libfdk_aac 🎉
 
-This repo can be deployed on heroku by connecting github to heroku and cloning or fork this repo 
-This repo is compiled with libfdk_aac, and thanks to me and my friend  to do this 
-If u want to compile libfdk_aac in ur repo just copy paste my dockerfile there 
-[Note: This repo needs atleast 25 mins to build and 5 to 7 mins to deploy ]
-## Deploy on Railway 
-Railway.app 👈
+This repo can be deployed on heroku by connecting github to heroku and cloning or fork this Repo.
+This repo is compiled with libfdk_aac, and thanks to me and my friend  to do This.
+If u want to compile libfdk_aac in ur repo just copy paste my dockerfile There.
+<b>[Note: This repo needs atleast 25 mins to build and 5-7 mins to Start]</b>
+
+## Deploy With Heroku
+
+<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-green?style=for-the-badge&logo=heroku" width="200"></a></p>
+## Deploy with Railway
+
+<p><a href="https://railway.app"><img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway" width="200x></a></p>
 
 1)I suggest u to clone Or Just Fork this repo
 
-2)Then go to <a href="railway.app" target="_blank">Railways</a>
+2)Then make fake cc (If Don't Know Ask ,<a href="https://telegram.dog/Kai_8_4">@Kai_8_4</a> and buy developer pack (as starter pack isnt copacetic for encoding)
 
-3)Then make fake cc (If Don't Know Ask ,<a href="https://telegram.dog/Kai_8_4">@Kai_8_4</a> and buy developer pack (as starter pack isnt copacetic for encoding)
-
-4)Then click variable and add this
-
-## Deploy With Heroku (It Will Take 25min)
-
-<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-green?style=for-the-badge&logo=heroku" width="200""/></a></p>
+3)Then click variable and add this 👇
 
 ### Variables
 `APP_ID` : Get Your APP_ID From my.telegram.org or [@TeleORG_Bot](https://telegram.dog/TeleORG_Bot).
