@@ -11,9 +11,10 @@ If u want to compile libfdk_aac in ur repo just copy paste my dockerfile There.
 ## Deploy With Heroku
 
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-green?style=for-the-badge&logo=heroku" width="200"></a></p>
+
 ## Deploy with Railway
 
-<p><a href="https://railway.app"><img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway" width="200x></a></p>
+<p><a href="https://railway.app"><img src="https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway" width="200"></a></p>
 
 1)I suggest u to clone Or Just Fork this repo
 
