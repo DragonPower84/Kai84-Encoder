@@ -18,7 +18,7 @@ If u want to compile libfdk_aac in ur repo just copy paste my dockerfile There.
 
 1)I suggest u to clone Or Just Fork this repo
 
-2)Then make fake cc (If Don't Know Ask ,<a href="https://telegram.dog/Kai_8_4">Kai84☯️</a> and buy developer pack (as starter pack isnt copacetic for encoding)
+2)Then make fake cc (If Don't Know Ask ,<a href="https://telegram.dog/Kai_8_4">Kai84☯</a> and buy developer pack (as starter pack isnt copacetic for encoding)
 
 3)Then click variable and add this 👇
 
