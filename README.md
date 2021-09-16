@@ -8,6 +8,14 @@ This repo is compiled with libfdk_aac, and thanks to me and my friend  to do Thi
 If u want to compile libfdk_aac in ur repo just copy paste my dockerfile There.
 <b>[Note: This repo needs atleast 25 mins to build and 5-7 mins to Start]</b>
 
+## Deploy Locally🖥️ / VPS
+
+```git clone https://github.com/Dragonpower84/Kai84-Encoder
+cd Kai84-Encoder
+pip3 install -r requirements.txt
+# Setup Configurations in bot/config.py file!
+bash run.sh or python3 -m bot```
+
 ## Deploy With Heroku
 
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-green?style=for-the-badge&logo=heroku" width="200"></a></p>
