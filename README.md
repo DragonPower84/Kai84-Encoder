@@ -10,11 +10,13 @@ If u want to compile libfdk_aac in ur repo just copy paste my dockerfile There.
 
 ## Deploy Locally🖥️ / VPS
 
-```git clone https://github.com/Dragonpower84/Kai84-Encoder
+```
+git clone https://github.com/Dragonpower84/Kai84-Encoder
 cd Kai84-Encoder
 pip3 install -r requirements.txt
 # Setup Configurations in bot/config.py file!
-bash run.sh or python3 -m bot```
+bash run.sh or python3 -m bot
+```
 
 ## Deploy With Heroku
 
